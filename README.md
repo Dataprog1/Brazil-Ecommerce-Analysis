@@ -1,4 +1,5 @@
 Brazilian E-Commerce (Olist) Analysis Project
+
 This project analyzes real-world Brazilian e-commerce (Olist) data to uncover insights about customer behavior, delivery performance, seller distribution, and product market trends.
 The goal is to simulate real-world business analysis using Python and professional visualization.
 
